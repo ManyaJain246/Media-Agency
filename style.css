@@ -595,6 +595,10 @@ footer ul li a:hover{
     font-size: 4rem;
 }
 
+.faqicon{
+    font-size:2.2rem;
+}
+    
 .question h4{
 font-size: 2.5rem;
 }
@@ -760,8 +764,9 @@ font-size: 2.5rem;
         font-size: 2rem;
     }
 
-    .categoryicon{
-        margin-top: 4px;
+    .categoryicons{
+        margin-top: 1rem;
+        margin-left: 1rem;
         display: inline-block;
     }
 
@@ -818,6 +823,10 @@ font-size: 2.5rem;
 
     .faq p{
         font-size: 1.3rem;
+    }
+
+    .faqicon{
+        font-size:2rem;
     }
 
     .question h4{
